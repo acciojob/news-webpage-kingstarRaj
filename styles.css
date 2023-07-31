@@ -21,31 +21,34 @@ header{
     
 }
 
-.item{
-   margin: 5px;
-   height: 100%;
-}
+
 
 #id3>img{
     width: 100%;
 }
 
-#id1{
+.latest-news-section{
     flex:1;
+	margin: 5px;
+   height: 100%;
     padding: 10px;
     background-color: white;
     border-radius: 10px;
     overflow: hidden;
 }
-#id2{
+.main-article{
     flex:2;
+	margin: 5px;
+   height: 100%;
     padding: 10px;
     text-align: center;
     background-color: white;
     border-radius: 10px;
 }
-#id3{
+.pictorial-news-section{
     flex:1;
+	margin: 5px;
+    height: 100%;
     padding: 20px;
     text-align: center;
     background-color: white;
